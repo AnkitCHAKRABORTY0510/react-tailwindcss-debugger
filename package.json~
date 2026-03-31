@@ -1,6 +1,6 @@
 {
   "name": "react-tailwindcss-debugger",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "description": "A visual debugger for Tailwind CSS in React with real-time source syncing.",
   "author": "Ankit Chakraborty",
   "license": "MIT",
